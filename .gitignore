@@ -1,0 +1,4 @@
+node_modules
+vars.tf
+test.js
+linux_basic.tf
